@@ -1,6 +1,3 @@
-;Coral Bahofrker - 322262221
-;May Nigri - 322678491
-;Yehuda Shmulevitz - 313366783
 
 		LIST 	P=PIC16F877
 		include	<P16f877.inc>
