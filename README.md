@@ -1,7 +1,7 @@
 # ADC-Based LCD Counter with Timer1 Interrupt
 
 ## Overview
-This project implements a counter using the PIC16F877 microcontroller. The counter value is displayed on an LCD and is incremented or decremented based on the input from an analog sensor via the ADC module. The program uses Timer1 for timing and interrupts to manage tasks effectively.
+This assembly project implements a counter using the PIC16F877 microcontroller. The counter value is displayed on an LCD and is incremented or decremented based on the input from an analog sensor via the ADC module. The program uses Timer1 for timing and interrupts to manage tasks effectively.
 
 ## Features
 - **Analog-to-Digital Conversion (ADC):** Reads analog input to determine whether to increment or decrement the counter.
